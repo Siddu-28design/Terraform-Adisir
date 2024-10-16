@@ -1,5 +1,5 @@
 resource local_file res1 {
-				filename = abc
+				filename = var.f1
 				content = var.f1
 			}
 
