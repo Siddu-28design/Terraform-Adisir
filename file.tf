@@ -4,6 +4,6 @@ resource local_file res1 {
 			}
 
 variable f1 {
-					default = "abc.txt"
+					default = "newfile.txt"
 					type = string
 				}
